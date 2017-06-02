@@ -92,6 +92,7 @@ args=(
 	--enable-libspeex
 	--enable-libtheora
 	--enable-libvorbis
+	--enable-gnutls
 	#--enable-libsoxr
 	#--enable-libfribidi
 
@@ -101,6 +102,7 @@ args=(
 	--enable-libx264
 	--enable-libx265
 	--enable-libxvid
+	--enable-openssl
 
 	# GPLv3
 	--enable-version3
