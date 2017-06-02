@@ -92,15 +92,17 @@ args=(
 	--enable-libspeex
 	--enable-libtheora
 	--enable-libvorbis
+	--enable-openssl
+	#--enable-gnutls
 	#--enable-libsoxr
 	#--enable-libfribidi
 
 	# GPL
-	--enable-gpl
-	--enable-frei0r
-	--enable-libx264
-	--enable-libx265
-	--enable-libxvid
+	# --enable-gpl
+	# --enable-frei0r
+	# --enable-libx264
+	# --enable-libx265
+	# --enable-libxvid
 
 	# GPLv3
 	--enable-version3
