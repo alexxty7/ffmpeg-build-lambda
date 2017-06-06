@@ -92,8 +92,8 @@ args=(
 	--enable-libspeex
 	--enable-libtheora
 	--enable-libvorbis
-	--enable-gnutls
-	# --enable-openssl
+	--enable-openssl
+	# --enable-gnutls
 	# --enable-libsoxr
 	# --enable-libfribidi
 

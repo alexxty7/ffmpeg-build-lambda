@@ -23,7 +23,6 @@ addons:
     - libwebp-dev
     - libx264-dev
     - libxvidcore-dev
-    - gnutls-bin
     - texinfo
     - yasm
 script: ./build.sh
