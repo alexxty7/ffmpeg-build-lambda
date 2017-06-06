@@ -73,11 +73,11 @@ args=(
 	--disable-devices
 
 	# Protocols
-	--disable-protocols
-	--enable-protocol=file
-	--enable-protocol=pipe
-	--enable-protocol=tee
-	--enable-protocol=http
+	# --disable-protocols
+	# --enable-protocol=file
+	# --enable-protocol=pipe
+	# --enable-protocol=tee
+	# --enable-protocol=http
 
 	# Libraries
 	--enable-libmp3lame
