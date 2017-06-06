@@ -65,12 +65,12 @@ args=(
 	--disable-shared
 	--enable-static
 	--disable-debug
-	--disable-runtime-cpudetect
-	--disable-ffplay
-	--disable-ffserver
-	--disable-doc
-	--disable-network
-	--disable-devices
+	# --disable-runtime-cpudetect
+	# --disable-ffplay
+	# --disable-ffserver
+	# --disable-doc
+	# --disable-network
+	# --disable-devices
 
 	# Protocols
 	# --disable-protocols
@@ -92,10 +92,10 @@ args=(
 	--enable-libspeex
 	--enable-libtheora
 	--enable-libvorbis
-	--enable-openssl
-	#--enable-gnutls
-	#--enable-libsoxr
-	#--enable-libfribidi
+	--enable-gnutls
+	# --enable-openssl
+	# --enable-libsoxr
+	# --enable-libfribidi
 
 	# GPL
 	# --enable-gpl
